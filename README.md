@@ -1,7 +1,8 @@
 ---
 # CodeGenius
 
-![CodeGenius Logo]([https://ibb.co/fV143nQY])
+
+![](https://i.ibb.co/fV143nQY/image.png)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
@@ -60,16 +61,7 @@
   <img src="https://img.shields.io/badge/HTML-1.2%25-e34c26?style=flat-square&logo=html5&logoColor=white"/>
   <progress value="1.2" max="100" style="width: 60%; height: 10px;"></progress>
 </p>
----
-## 🧠 Supported Languages
 
-- JavaScript / TypeScript  
-- Python  
-- Java  
-- C / C++  
-- Go  
-- Ruby  
-- PHP  
 - And more...
 
 ---
