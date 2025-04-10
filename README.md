@@ -5,9 +5,7 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
-[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/yourcommunity)
-[![License](https://img.shields.io/github/license/yourusername/codegenius)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/codegenius)](https://github.com/yourusername/codegenius/graphs/contributors)
+[![View Demo](https://img.shields.io/badge/View-Demo-blue?logo=vercel&logoColor=white)](https://codegenius.dev/demo)
 [![Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 
