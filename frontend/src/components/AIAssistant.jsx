@@ -14,7 +14,7 @@ const AIAssistant = () => {
     setInput('');
 
     try {
-      const res = await axios.post('http://localhost:5000/api/gpt/chat', {
+      const res = await axios.post('https://codegenius-backend-iksz.onrender.com/api/gpt/chat', {
         message: input,
       });
 
