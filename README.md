@@ -2,7 +2,7 @@
 # CodeGenius
 
 
-![](https://i.ibb.co/fV143nQY/image.png)
+![Logo](https://i.ibb.co/fV143nQY/image.png)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
