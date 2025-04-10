@@ -1,7 +1,7 @@
 ---
 # CodeGenius
 
-![CodeGenius Logo](https://via.placeholder.com/150x50?text=CodeGenius)
+![CodeGenius Logo]([https://ibb.co/fV143nQY])
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
@@ -24,7 +24,43 @@
 - **Responsive Design**: Works seamlessly across desktop and mobile devices  
 
 ---
+## 🧰 Tech Stack
+<!-- JavaScript -->
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-44.2%25-f1e05a?style=flat-square&logo=javascript&logoColor=white"/>
+  <progress value="44.2" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
 
+<!-- C++ -->
+<p>
+  <img src="https://img.shields.io/badge/C++-27.2%25-f34b7d?style=flat-square&logo=c%2b%2b&logoColor=white"/>
+  <progress value="27.2" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
+
+<!-- CSS -->
+<p>
+  <img src="https://img.shields.io/badge/CSS-14.2%25-563d7c?style=flat-square&logo=css3&logoColor=white"/>
+  <progress value="14.2" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
+
+<!-- Python -->
+<p>
+  <img src="https://img.shields.io/badge/Python-6.8%25-3572A5?style=flat-square&logo=python&logoColor=white"/>
+  <progress value="6.8" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
+
+<!-- Java -->
+<p>
+  <img src="https://img.shields.io/badge/Java-6.4%25-b07219?style=flat-square&logo=java&logoColor=white"/>
+  <progress value="6.4" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
+
+<!-- HTML -->
+<p>
+  <img src="https://img.shields.io/badge/HTML-1.2%25-e34c26?style=flat-square&logo=html5&logoColor=white"/>
+  <progress value="1.2" max="100" style="width: 60%; height: 10px;"></progress>
+</p>
+---
 ## 🧠 Supported Languages
 
 - JavaScript / TypeScript  
