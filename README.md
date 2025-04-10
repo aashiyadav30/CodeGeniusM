@@ -1,4 +1,4 @@
----
+
 <h1 align="left">
   <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="160" style="vertical-align: middle;" />
   CodeGenius - AI-Powered Online IDE
