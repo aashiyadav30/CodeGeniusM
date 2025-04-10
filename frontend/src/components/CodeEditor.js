@@ -34,7 +34,7 @@ const CodeEditor = () => {
   
   const handleRun = async () => {
     try {
-      const response = await axios.post("http://localhost:8000/compile", {
+      const response = await axios.post("https://codegenius-backend-iksz.onrender.com/compile", {
         code,
         input,
         lang: language,
