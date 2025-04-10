@@ -56,7 +56,7 @@
   <progress value="1.2" max="100" style="width: 60%; height: 10px;"></progress>
 </p>
 
-- And more...
+And more...
 
 ---
 
