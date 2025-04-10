@@ -1,13 +1,13 @@
-<p align="left">
-  <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="120" style="vertical-align: middle;"/>
-  <span><strong style="font-size: 1.8rem;">CodeGenius - AI-Powered Online IDE</strong></span>
-</p>
-
+<h1 align="left">
+  <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="160" style="vertical-align: middle;" />
+  CodeGenius - AI-Powered Online IDE
+</h1>
+![WhatsApp Image 2025-04-10 at 16 36 43_d8ec1f4a](https://github.com/user-attachments/assets/78e9313a-a518-4734-bd78-759ad9962745)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?logo=vercel&logoColor=white)](https://codegenius.dev/demo)
-[![Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/aashiyadav30)
 
 
 
