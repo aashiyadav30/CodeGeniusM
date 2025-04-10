@@ -1,19 +1,9 @@
-<a href="https://suitecrm.com">
-  <img width="180px" height="41px" src="https://i.ibb.co/Yt3XdcJ/image.png" align="right" />
-</a>
-
 # CodeGenius - AI-Powered Online IDE
-
-
-
-
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
 [![View Demo](https://img.shields.io/badge/View-Demo-blue?logo=vercel&logoColor=white)](https://codegenius.dev/demo)
 [![Follow](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/aashiyadav30)
-
-
 
 
 **CodeGenius** is a modern, AI-powered online Integrated Development Environment (IDE) that combines code editing capabilities with an integrated AI assistant to enhance developer productivity.
