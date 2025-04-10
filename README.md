@@ -1,8 +1,7 @@
-
-<h1 align="left">
-  <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="160" style="vertical-align: middle;" />
-  CodeGenius - AI-Powered Online IDE
-</h1>
+<p align="left">
+  <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="120" style="vertical-align: middle;"/>
+  <span><strong style="font-size: 1.8rem;">CodeGenius - AI-Powered Online IDE</strong></span>
+</p>
 
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
