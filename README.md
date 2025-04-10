@@ -1,8 +1,12 @@
-<h1 align="left">
-  <img src="https://i.ibb.co/Yt3XdcJ/image.png" alt="CodeGenius Logo" width="160" style="vertical-align: middle;" />
-  CodeGenius - AI-Powered Online IDE
-</h1>
-![WhatsApp Image 2025-04-10 at 16 36 43_d8ec1f4a](https://github.com/user-attachments/assets/78e9313a-a518-4734-bd78-759ad9962745)
+<a href="https://suitecrm.com">
+  <img width="180px" height="41px" src="https://i.ibb.co/Yt3XdcJ/image.png" align="right" />
+</a>
+
+# CodeGenius - AI-Powered Online IDE
+
+
+
+
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/codegenius/actions)
 [![Code Coverage](https://img.shields.io/badge/coverage-94%25-yellowgreen)](https://codecov.io/)
